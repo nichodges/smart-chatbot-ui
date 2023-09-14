@@ -1,3 +1,3 @@
 {
-  "urls": ["https://www.klarna.com/.well-known/ai-plugin.json"]
+  "urls": ["https://wolframalpha.com/.well-known/ai-plugin.json", "https://www.accesslinks.ai/.well-known/ai-plugin.json"]
 }
